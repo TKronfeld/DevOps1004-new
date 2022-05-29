@@ -1,1 +1,1 @@
-print("Excellent!)
+print("Excellent!")
